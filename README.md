@@ -1,6 +1,6 @@
 # walmart_executive_dashboard_tableau
 In this project I use Tableau to build an interactive executive dashboard for Walmart. 
-The link to the dashboard is below:
+The the sample data I used is uploaded above and link to the dashboard is below:
 
 https://public.tableau.com/app/profile/muhammad.yar
 
