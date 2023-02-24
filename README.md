@@ -25,6 +25,6 @@ At the bottom we have two graphs. On the left we have total sales and on the rig
 
 For example, if you hover the last bar in 2014, the top the bar is October, the middle is November, and the bottom is December. The height of the individual months is related to the number of sales in the month. As you can see, November is the biggest section of the bar as it has the most sales. All the bars in the both the graphs are broken down in this manner. 
 
-Overall, this dashboard is very versatile and can manage many filter combinations. Put yourself in the shoes of a CEO and see what information you can harness from the dashboard. 
+Overall, this dashboard is very versatile and can manage many filter combinations. Put yourself in the shoes of a CEO managing Walmart and see what information you can harness from the dashboard. 
 
 
