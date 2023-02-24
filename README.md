@@ -6,7 +6,7 @@ https://public.tableau.com/app/profile/muhammad.yar
 
 Dashboard Walkthrough: 
 
-(Read this walkthrough as you interact with the dashboard)
+(Read this walkthrough guide as you interact with the dashboard)
 
 I first want to draw your attention to the middle right of the dashboard, where we have the Walmart logo. 
   -	In this section we first have a region filter, by selecting a region the user can see data specific to that region. All   the data on the change to match the region selected. 
