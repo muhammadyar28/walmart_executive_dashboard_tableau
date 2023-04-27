@@ -5,6 +5,8 @@ https://public.tableau.com/app/profile/muhammad.yar
 
 Allow me to walk you through the dashboard, which I've designed for easy user navigation and maximum data interpretation.
 
+(Read this while going through the dashboard)
+
 Let's begin by examining the middle right section of the dashboard, where you will find the Walmart logo.
 
 Here, we have a region filter that permits users to view data pertaining to a specific region. Upon selection of a region, all data will adjust accordingly. Following that, we have a profit ratio filter that allows users to filter states/provinces and regions by their profit ratio. Upon moving the slider, the dashboard will present data only from regions and states/provinces within the designated range. For instance, if you adjust the left slider to 0.0%, you will see all the states/provinces and regions that have a positive profit ratio, along with other corresponding information such as Sales, Profits, Sales by Sub-Category, and the Key Performance Indicators. Additionally, we have a date filter that enables users to view data within a specific time frame. If you move the right slider to December 31st, 2014, for example, you will only see information for 2014. Lastly, beneath the date filter, we have a legend that explains the colors on the map to the user.
