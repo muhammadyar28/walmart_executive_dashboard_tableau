@@ -9,7 +9,7 @@ Dashboard Walkthrough:
 (Read this walkthrough guide as you interact with the dashboard)
 
 I first want to draw your attention to the middle right of the dashboard, where we have the Walmart logo. 
-  -	In this section we first have a region filter, by selecting a region, the user can see data specific to that region. All   the data on the change to match the region selected. 
+  -	In this section we first have a region filter, by selecting a region, the user can see data specific to that region. All   the data changes to match the region selected. 
   -	Then we have a profit ratio filter, this allows the user to filter states/provinces and regions by their profit ratio.    As one moves the slider, all the data in the dashboard will change to only display the data from regions and                states/provinces which are in the range. 
   -	For example, if you move the left slider to 0.0%, this will allow you to see all the states/provinces and regions that    have a positive profit ratio. Other corresponding information will also change, such as the Sales, Profits, Sales by        Sub-Category, and the Key Performance Indicators. 
   -	We also have a date filter; this allows a user to see the data in a particular time frame. For example, if you moved      the right slider to December 31st, 2014, you would see only information for 2014. 
